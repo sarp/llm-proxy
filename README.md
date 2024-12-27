@@ -57,7 +57,7 @@ go run .
 ```
 
 ## Examples
-See the [examples folder](/tree/main/examples) for more details and usage examples.
+See the [examples folder](tree/main/examples) for more details and usage examples.
 
 #### Python
 ```python
